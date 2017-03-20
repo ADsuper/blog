@@ -1,7 +1,8 @@
 ---
 title: 基于Hexo-Github---搭建个人博客笔记
 date: 2017-03-19 22:32:26
-tags:
+tags: Hexo
+categories: Hexo开发
 ---
 ## 前言:
 ###### 为了搭建这个博客，踩得坑不计其数，说焦头烂额也不为过．
