@@ -1,3 +1,8 @@
+---
+title: 基于Hexo-Github---搭建个人博客笔记
+date: 2017-03-19 22:32:26
+tags:
+---
 ## 前言:
 ###### 为了搭建这个博客，踩得坑不计其数，说焦头烂额也不为过．
 ###### 参考博客：　
@@ -5,7 +10,7 @@
 [基于Hexo+GitHub Pages 搭建个人博客教程](http://xuhaoblog.com/hexo-github-pages.html)
 
 ---
-
+<!--more-->
 ## 正文： 
 
 ### 一、环境的搭建
