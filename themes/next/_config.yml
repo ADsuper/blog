@@ -2,7 +2,7 @@
 # Site Information Settings
 # ---------------------------------------------------------------
 
-# Put your favicon.ico into `hexo-site/source/` directory.
+# Put your favicon.ico into `hexo-site/source/` directory.设置logo
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
@@ -286,13 +286,13 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 38e24263d6aea09127573aefd6aa53d0
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+#duoshuo_shortname: ADsuper
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: adsuper
 
 # Hypercomments
 #hypercomments_id:
@@ -312,16 +312,16 @@ mathjax:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -382,27 +382,27 @@ vkontakte_api:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: lqjNsN3f9ORzUzm8S6E0bUDa-gzGzoHsz
+  app_key: ctllhdLexKqeXmRuxqhL9U85
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: true
   # custom uv span for the whole site
   site_uv: true
-  site_uv_header: <i class="fa fa-user"></i>
+  site_uv_header: <i class="fa fa-user"></i> 访问人数
   site_uv_footer:
   # custom pv span for the whole site
   site_pv: true
-  site_pv_header: <i class="fa fa-eye"></i>
-  site_pv_footer:
+  site_pv_header: <i class="fa fa-eye"></i> 总访问量
+  site_pv_footer: 次
   # custom pv span for one page only
   page_pv: true
-  page_pv_header: <i class="fa fa-file-o"></i>
-  page_pv_footer:
+  page_pv_header: <i class="fa fa-file-o"></i> 浏览
+  page_pv_footer: 次
 
 
 # Tencent analytics ID
@@ -529,5 +529,5 @@ images: images
 version: 5.1.0
 
 since: 1991
-#DISQUS评论系统
-disqus_shortname: your-disqus-shortname
+
+
